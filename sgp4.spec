@@ -8,7 +8,7 @@ Version:	1.0^%{sourcedate}git%{gitcommit}
 Release:	1
 Summary:	SGP4 is a satellite tracking library
 URL:		https://github.com/dnwrnr/sgp4
-License:	GPL
+License:	Apache-2.0
 Group:		System/Libraries
 #Source0:	https://github.com/dnwrnr/sgp4/archive/%%{version}/%%{name}-%%{version}.tar.gz
 Source0:	%{name}-%{sourcedate}-%{gitcommit}.tar.zst
